@@ -1,5 +1,5 @@
 # Shoppster
-Multimodal Shopping Assistant, A project made for the course [Machine Learning and Discovery](https://web.cs.ucdavis.edu/~hpirsiav/courses/MLf22/) at UC Davis. 
+Multimodal Shopping Assistant
 
 
 ## Motivation
